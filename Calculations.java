@@ -1,7 +1,7 @@
 //This program is about calculations in java basic ones.
 
 /* Date:- 25-09-2021
-Group members:- Vinit Jangir, Ujjwal Sood, Jay D, Anthony R
+Ujjwal Sood
  */
 package Assignment_three;
 import java.util.Scanner;
